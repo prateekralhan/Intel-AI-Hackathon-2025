@@ -56,4 +56,10 @@ The teams getting into the prototype phase should build the prototypes, submit t
 * Team Name: *Unnamed_v2*
 * [Link🔗](https://vision.hack2skill.com/event/intelaihackathon/dashboard/roadmap?utm_medium=url&utm_campaign=intelaihackathon&utm_term=68230951620d3c2038d7f834)
 
+-----------------
+
+## Our Proposed Solution
+
+![](https://github.com/prateekralhan/Intel-AI-Hackathon-2025/blob/main/Pyxis%20-%20System%20Architecture/Pyxis.png?raw=true)
+
  
