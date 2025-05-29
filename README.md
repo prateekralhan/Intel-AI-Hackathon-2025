@@ -62,4 +62,6 @@ The teams getting into the prototype phase should build the prototypes, submit t
 
 ![](https://github.com/prateekralhan/Intel-AI-Hackathon-2025/blob/main/Pyxis%20-%20System%20Architecture/Pyxis.png?raw=true)
 
+![View Submission slides 🔗](https://github.com/prateekralhan/Intel-AI-Hackathon-2025/blob/main/Submission%20slides/team-unnamed_v2--Intel%20AI%20Hackathon%20Idea%20Submission%20pyxis.pdf)
+
  
