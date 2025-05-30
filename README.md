@@ -1,5 +1,7 @@
 # Intel AI Hackathon 2025 🚀 | [Link🔗](https://vision.hack2skill.com/event/intelaihackathon/dashboard/team-management?utm_medium=url&utm_campaign=intelaihackathon&utm_term=68230951620d3c2038d7f834)
 
+![](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00000008/1748510503494-intelbannerupdated.webp)
+
 Intel is thrilled to unveil a hackathon tailored for Enterprise AI Developers eager to harness cutting-edge technology to address real-world enterprise challenges. This hackathon focuses on Intel's ecosystem and the GenAI Solutions with OPEA™ platform, offering a unique opportunity to develop innovative solutions that drive industry transformation. Participants will have the chance to showcase their skills, learn new technologies, and make meaningful contributions to the open-source community. The hackathon invites participants to delve into the Open Platform for Enterprise AI (OPEA™) and leverage its microservices to innovate using a comprehensive tech stack and leverage the power of Intel's CPUs, GPUs, NPUs and Intel® Tiber AI Cloud to accelerate development using the modular, composable, and secure architecture of the Open Platform for Enterprise AI (OPEA™). With access to these advanced tools and technologies, the hackathon aims to inspire groundbreaking solutions that redefine possibilities in today's digital landscape. Participants will ideate and create prototypes, pushing the boundaries of innovation and enterprise capability.
 
 ## Important Links
@@ -60,8 +62,12 @@ The teams getting into the prototype phase should build the prototypes, submit t
 
 ## Our Proposed Solution
 
+#### [View Submission slides 🔗](https://github.com/prateekralhan/Intel-AI-Hackathon-2025/blob/main/Submission%20slides/team-unnamed_v2--Intel%20AI%20Hackathon%20Idea%20Submission%20pyxis.pdf)
+
+### System architecture
+
 ![](https://github.com/prateekralhan/Intel-AI-Hackathon-2025/blob/main/Pyxis%20-%20System%20Architecture/Pyxis.png?raw=true)
 
-![View Submission slides 🔗](https://github.com/prateekralhan/Intel-AI-Hackathon-2025/blob/main/Submission%20slides/team-unnamed_v2--Intel%20AI%20Hackathon%20Idea%20Submission%20pyxis.pdf)
+
 
  
